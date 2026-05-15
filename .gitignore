@@ -415,6 +415,24 @@ FodyWeavers.xsd
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
+# 7 Days to Die specific
+*.log
+*.bak
+*.tmp
+*.meta
+
+# Publisher & Build Outputs
+releases/
+build/
+bin/
+obj/
+
+# OS/Editor specific
+.vs/
+.vscode/
+Thumbs.db
+.DS_Store
+
 # Local History for Visual Studio Code
 .history/
 
