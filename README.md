@@ -22,8 +22,6 @@ Ensure the folder is named z_SlurpeeMod to ensure it overrides any conflicting U
 📂 Technical Details
 Version: 5.2.1.1
 
-Compatibility: 7 Days to Die (Tested on RekWorld/ProjectZ builds)
-
 Pathing: Uses #@modfolder dynamic pathing for maximum asset reliability.
 
 🤝 Credits & Inspiration
